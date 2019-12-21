@@ -23,31 +23,29 @@
         "name": "AWS",
         "url": "https://docs.aws.amazon.com/index.html?nc2=h_ql_doc"
       }
-	  
     ],
-	"Data Scientist":[
-		{
-			"name": "Hadoop",
-      "url": "https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html"
-		},
-		{
-			"name": "Hive",
-			"url": "https://cwiki.apache.org/confluence/display/Hive/GettingStarted"
-
-		},
-		{
-			"name": "Spark",
-			"url": "https://spark.apache.org/docs/latest/"
-		},
-		{
-			"name": "Gurobi", 
-			"url": "https://www.gurobi.com/documentation/"
-		},
-		{
-			"name": "MySQL",
-			"url": "https://dev.mysql.com/doc/"
-		}
-	],
+    "Data Scientist": [
+      {
+        "name": "Hadoop",
+        "url": "https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html"
+      },
+      {
+        "name": "Hive",
+        "url": "https://cwiki.apache.org/confluence/display/Hive/GettingStarted"
+      },
+      {
+        "name": "Spark",
+        "url": "https://spark.apache.org/docs/latest/"
+      },
+      {
+        "name": "Gurobi",
+        "url": "https://www.gurobi.com/documentation/"
+      },
+      {
+        "name": "MySQL",
+        "url": "https://dev.mysql.com/doc/"
+      }
+    ],
     "degrees": [
       "Mathematics",
       "Computer Science"
@@ -55,10 +53,10 @@
   },
   "programming": {
     "databases": [
-	  {
-		"name": "Cassandra",
-		"url": "http://cassandra.apache.org/doc/latest/"
-	  },
+      {
+        "name": "Cassandra",
+        "url": "http://cassandra.apache.org/doc/latest/"
+      },
       {
         "name": "Firebase Realtime Database",
         "url": "https://firebase.google.com/docs/database"
@@ -113,7 +111,7 @@
       {
         "name": "GraphQL",
         "url": "https://graphql.org/learn/"
-},
+      },
       {
         "name": "React",
         "url": "https://reactjs.org/docs/getting-started.html"
@@ -121,7 +119,7 @@
       {
         "name": "Node.js",
         "url": "https://nodejs.org/en/"
-      }, 
+      },
       {
         "name": "React",
         "url": "https: //reactjs.org/docs/getting-started.html"
@@ -131,15 +129,34 @@
         "url": "https://vuejs.org/v2/guide/"
       }
     ],
+    "JVM": [
+      {
+        "name": "Java",
+        "url": "https://www.java.com/"
+      },
+      {
+        "name": "Kotlin",
+        "url": "https://kotlinlang.org/"
+      },
+      {
+        "name": "Scala",
+        "url": "https://scala-lang.org/"
+      },
+      {
+        "name": "Spring Boot",
+        "url": "https://spring.io/projects/spring-boot"
+      }
+    ],
     "Python": [
-      { 
-	      "name": "Python",
-        "url": "https://www.python.org/doc/"      
-      }],
-	  "R": [
-      { 
-          "name": "R",
-          "url": "https://www.r-project.org/"    
+      {
+        "name": "Python",
+        "url": "https://www.python.org/doc/"
+      }
+    ],
+    "R": [
+      {
+        "name": "R",
+        "url": "https://www.r-project.org/"
       }
     ]
   },
@@ -155,7 +172,7 @@
     ]
   },
   "soft skills": [
-    "Accountability",	  
+    "Accountability",
     "Communication",
     "Conflict resolution",
     "Leadership",
@@ -168,7 +185,7 @@
       "Art"
     ],
     "CSS": [
-	    {
+      {
         "name": "CSS",
         "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
       },
