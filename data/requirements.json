@@ -48,6 +48,10 @@
                         "url": "https://www.scipy.org/"
                     }
                 ]
+            },
+            {
+                "name": "R",
+                "url": "https://www.r-project.org/"
             }
         ],
         "Data Scientist":[
@@ -166,7 +170,7 @@
         "R": [
             { 
                 "name": "R",
-                "url": "https://www.r-project.org/"    
+                "url": "https://www.r-project.org/"
             }
         ]
     },
