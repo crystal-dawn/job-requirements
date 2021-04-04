@@ -16,6 +16,10 @@
             {
                 "name": "MariaDB",
                 "url": "https://mariadb.org/"
+            },
+            {
+                "name": "PostgreSQL",
+                "url": "https://www.postgresql.org/"
             }
         ],
         "Data Science": [
@@ -47,10 +51,10 @@
             }
         ],
         "degrees": [
-            "Mathematics",
             "Computer Science",
-            "Statistics",
-            "Data Science"
+            "Mathematics",
+            "Data Science",
+            "Statistics"
         ]
     },
     "programming": {
@@ -69,7 +73,7 @@
             }
         ],
         "degrees": [
-            "ComputerScience"
+            "Computer Science"
         ],
         "Angular": [
             {
@@ -164,8 +168,8 @@
     ],
     "ui/ux": {
         "degrees": [
-            "GraphicDesign",
-            "ComputerScience",
+            "Graphic Design",
+            "Computer Science",
             "Art"
         ],
         "CSS": [
