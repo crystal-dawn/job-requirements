@@ -26,6 +26,28 @@
             {
                 "name": "AWS",
                 "url": "https://docs.aws.amazon.com/index.html?nc2=h_ql_doc"
+            },
+            {
+                "name": "Python",
+                "url": "https://www.python.org/doc/",
+                "key_external_resources": [
+                    {
+                        "name": "matplotlib",
+                        "url": "https://matplotlib.org/"
+                    },
+                    {
+                        "name": "numpy",
+                        "url": "https://numpy.org/"
+                    },
+                    {
+                        "name": "pandas",
+                        "url": "https://pandas.pydata.org/"
+                    },
+                    {
+                        "name": "SciPy",
+                        "url": "https://www.scipy.org/"
+                    }
+                ]
             }
         ],
         "Data Scientist":[
@@ -52,8 +74,8 @@
         ],
         "degrees": [
             "Computer Science",
-            "Mathematics",
             "Data Science",
+            "Mathematics",
             "Statistics"
         ]
     },
