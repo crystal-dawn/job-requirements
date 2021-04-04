@@ -208,10 +208,6 @@
                 "url": "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
             },
             {
-                "name": "CSS",
-                "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
-            },
-            {
                 "name": "ngx-bootstrap",
                 "url": "https://valor-software.com/ngx-bootstrap/#/"
             },
