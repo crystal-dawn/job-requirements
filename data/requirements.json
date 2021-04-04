@@ -145,10 +145,6 @@
                 "url": "https://graphql.org/learn/"
             },
             {
-                "name": "React",
-                "url": "https://reactjs.org/docs/getting-started.html"
-            },
-            {
                 "name": "Node.js",
                 "url": "https://nodejs.org/en/"
             }, 
@@ -164,7 +160,7 @@
         "Python": [
             { 
                 "name": "Python",
-                "url": "https://www.python.org/doc/"      
+                "url": "https://www.python.org/doc/"
             }
         ],
         "R": [
